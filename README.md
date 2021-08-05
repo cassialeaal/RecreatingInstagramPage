@@ -1,4 +1,6 @@
 # RecriandoPageInstagram
-Projeto do Bootcamp da DIO que propõe reconstruir a página inicial de login do Instagram, utilizando conceitos sobre CSS utilizando Flexbox.
+Projeto incluso no Bootcamp HTML Web Developer da plataforma Digital Innovation One (DIO) que propõe reconstruir a página inicial de login do Instagram, utilizando conceitos sobre CSS utilizando Flexbox.
 
-A proposta principal é seguir as instruções básicas para reconstrução da página inicial do instagram com a proposta de dar liberdade criativa ao desenvolvedor.
+Tem como objetivo aguçar a criatividade do desenvolvedor.
+
+Bootcamp nível básico. 
